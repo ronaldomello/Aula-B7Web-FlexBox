@@ -1,2 +1,4 @@
 # Aula-B7Web-FlexBox
-Projeto de HTML5, CSS3 e JavaScript de Flexbox responsivo
+-Projeto de HTML
+-CSS3
+-JavaScript de Flexbox responsivo
